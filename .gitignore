@@ -15,3 +15,5 @@ wheels/
 # VSCode / JetBrains
 .vscode/
 .idea/
+
+game_state.jsonl
